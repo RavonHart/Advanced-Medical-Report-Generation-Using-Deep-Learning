@@ -42,4 +42,16 @@ Image → CNN Encoder → Attention Decoder → Text Report → LLM Refinement �
 
 ---
 
-## 📁 Project Structure
+## 📌 Future Improvements
+- Beam search decoding
+- Attention visualization
+- Web app deployment
+- Transformer-based decoder
+
+---
+
+## 👨‍💻 Author
+
+Meesam Raza
+Animesh Kumar Rai
+Arunav Kumar Singh
